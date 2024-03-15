@@ -1,0 +1,7 @@
+name = "cobblemon"
+filename = "fabric-1.5.0+1.20.1-20240308.205620-36.jar"
+
+[download]
+url = "https://maven.impactdev.net/repository/development/com/cobblemon/fabric/1.5.0+1.20.1-SNAPSHOT/fabric-1.5.0+1.20.1-20240308.205620-36.jar"
+hash-format = "sha256"
+hash = "044f52465f9f9748a1b4bf73b4b80ac960a0cad9276f65004d84bc139d244723"

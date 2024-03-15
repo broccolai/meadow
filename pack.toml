@@ -1,0 +1,13 @@
+name = "broccolimon"
+author = "broccoli"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "839886f49621d986e28c972ed06829a4fcf67436d084db00749a4ee1cf17dc74"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.24.0"

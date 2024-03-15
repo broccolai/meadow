@@ -1,0 +1,11 @@
+version:3465
+autoJump:false
+enableVsync:false
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
+key_gui.xaero_open_map:key.keyboard.m
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+tutorialStep:none
+key_gui.xaero_open_map:key.keyboard.x
