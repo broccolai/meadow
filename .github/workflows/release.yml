@@ -20,7 +20,7 @@ jobs:
       run: go install github.com/packwiz/packwiz@latest
 
     - name: build pack
-      run: packwiz modrinth export --output meadow.mrpack
+      run: packwiz modrinth export --output build/meadow.mrpack
 
     - name: Upload release asset
       uses: actions/upload-release-asset@v1
