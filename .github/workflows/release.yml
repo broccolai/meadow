@@ -19,6 +19,9 @@ jobs:
     - name: install packwiz
       run: go install github.com/packwiz/packwiz@latest
 
+    - name: make build directory
+      run: mkdir build
+
     - name: build pack
       run: packwiz modrinth export --output build/meadow.mrpack
 
