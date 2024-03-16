@@ -20,7 +20,7 @@ jobs:
       run: go install github.com/packwiz/packwiz@latest
 
     - name: build pack
-      run: packwiz modrinth export --output broccolimon.mrpack
+      run: packwiz modrinth export --output meadow.mrpack
 
     - name: Upload release asset
       uses: actions/upload-release-asset@v1
@@ -28,6 +28,6 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ github.event.release.upload_url }}
-        asset_path: ./build/broccolimon.mrpack
-        asset_name: broccolimon.mrpack
+        asset_path: ./build/meadow.mrpack
+        asset_name: meadow.mrpack
         asset_content_type: application/octet-stream

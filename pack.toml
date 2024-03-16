@@ -1,4 +1,4 @@
-name = "broccolimon"
+name = "meadow"
 author = "broccoli"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "839886f49621d986e28c972ed06829a4fcf67436d084db00749a4ee1cf17dc74"
+hash = "4f105d612f404a4279ad811248d7f6c747c2f0bb3d56806c9270e8f5ea67430d"
 
 [versions]
 minecraft = "1.20.1"

@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "build/broccolimon"
-hash = "e5c1030c19c4bb5d65817f39149263fb3e5e9b052d49ace0f1169b1317c87468"
-
-[[files]]
 file = "config/xaerominimap-common.txt"
 hash = "12d59cbd75c19a2bfb7f837f161f762e6136e834b07d3c3c5bba806a66e34bc2"
 
