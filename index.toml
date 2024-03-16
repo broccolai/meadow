@@ -53,9 +53,8 @@ hash = "e6dc6258b74e2caa896fdf4a56f16893721806061fc143bc5867be186f5f35ee"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon.pw.toml"
-hash = "63e10328a8087cdeec1b8e313b8f92eaf415f99be23802fa27c59f72ee9be12e"
-metafile = true
+file = "mods/cobblemon.jar"
+hash = "3432dd2801bc5aca908dd59e920503c4d14ecc41ca4053ea3069a8804892da22"
 
 [[files]]
 file = "mods/cobblemounts.pw.toml"
