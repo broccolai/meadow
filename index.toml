@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "a05b6646fa77ed2e4de753183913845af198ebefc91542aa9c6a23661bc51664"
+hash = "bbd904bede3f46756db513dfe4c79980e4fada5b5a602e1e3df7861925ab294c"
 metafile = true
 
 [[files]]
@@ -88,6 +88,11 @@ hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "06859e85abd86899e44b38c090d53f5804550aca2a23924fbb6bb1867d0b859a"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "0c4c20d601b15dbc85c275732d9efe9369597503c7d6caa9a7fee217f67073e7"
 metafile = true
@@ -95,11 +100,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
-metafile = true
-
-[[files]]
-file = "mods/fastanim.pw.toml"
-hash = "09282ae8265516057d5500cb489f0a8d3c563064d85582718a1efd6f3afb43be"
 metafile = true
 
 [[files]]
@@ -278,5 +278,5 @@ hash = "4db26c5b8276904ce7d787387e8cd1636fb77589f7b0e02d63bc07ed628eda72"
 
 [[files]]
 file = "resourcepacks/cobblemon-interface.pw.toml"
-hash = "5a29cfe994214d3bf89e4a3c75e0758d81c33a83c736c55729942e6f4aa100bf"
+hash = "a200ad81ef4c60d08cdf3783d104e60883e55a5c3114a13a2fd94a47851416b7"
 metafile = true
