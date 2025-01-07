@@ -1,13 +1,13 @@
 name = "SuperMartijn642's Core Lib"
-filename = "supermartijn642corelib-1.1.18-fabric-mc1.21.jar"
+filename = "supermartijn642corelib-1.1.18-neoforge-mc1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rOUBggPv/versions/EEyuvaUH/supermartijn642corelib-1.1.18-fabric-mc1.21.jar"
+url = "https://cdn.modrinth.com/data/rOUBggPv/versions/i7nRl7jh/supermartijn642corelib-1.1.18-neoforge-mc1.21.jar"
 hash-format = "sha512"
-hash = "c8876c1b5caf3e39317e78eda6b003a59966a55c14be66602446b06dcbaba4d4b98ec7ddbe88109264ebef2340d246632dcd7b61b4870125d952e5514063c40d"
+hash = "17d363b2a979a63a91f1747260c8bcdfa3ee2ce0853bcbffe1def79ec5cb383cf0dc3fd218126583454566169a3927bc73c4579f60fe0d64ba78506726bde5a6"
 
 [update]
 [update.modrinth]
 mod-id = "rOUBggPv"
-version = "EEyuvaUH"
+version = "i7nRl7jh"
