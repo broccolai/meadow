@@ -1,12 +1,12 @@
 name = "meadow"
 author = "broccoli"
-version = "2.1.0"
+version = "2.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "85dd08418afd34d949487cc47207bc9368890cb3e795e6e470308e98ecefd08f"
+hash = "7998899711fba79b6bc38ebbae4aef899ab3af6cb4850dbe7d657ded4578a221"
 
 [versions]
 minecraft = "1.21.1"
