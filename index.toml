@@ -19,7 +19,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "3e44fbb6d95c0d8385d02379ffaf3724e973235a14aed5aa48510a62799bd689"
+hash = "28a0ca6644d3cd35d2836ba23ea07442d86f89994e13e473a1d6b13144bf3724"
 metafile = true
 
 [[files]]
@@ -39,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "b0d8d17a1725291b4cdb4c684813414be0abbf67ec1cb52ffd70c6d540794aba"
+hash = "d5914b8f071b7b8365425538f9b76035e4738068feaf36ada19f4c5d9687c06d"
 metafile = true
 
 [[files]]
@@ -70,6 +70,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "157aa7f8f8e00e1b14070964e118df94cd58419422c2f6681bea93a5f3c76468"
+metafile = true
+
+[[files]]
+file = "mods/entity-detectors.pw.toml"
+hash = "15f12ff83e88269dcb06d89016fba8c8162975a7ad0afc8d3905b1b4ef2bd217"
 metafile = true
 
 [[files]]
@@ -104,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "ae090cbebafa154ceec8e76d39e91349b94823c86762e75536c7cea4f4cb83ff"
+hash = "ecd326b7decda438690ae21e7f3220ec6d6067f6c5482921c2c7949a9cdf4690"
 metafile = true
 
 [[files]]
@@ -148,6 +153,11 @@ hash = "b88870636259f36da92219dc38d289505579a0f789450e0d7f9a193eb7611d07"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
+metafile = true
+
+[[files]]
 file = "mods/moonrise-opt.pw.toml"
 hash = "794c3bf024492e6d10a7d1c3591aa627b60af910ab9cd8e5db36cf793666de23"
 metafile = true
@@ -188,6 +198,16 @@ hash = "53b7873e229f9ffd722c84a3e277af26e10ed774d59f459c6e052db771c9620b"
 metafile = true
 
 [[files]]
+file = "mods/silent-gear.pw.toml"
+hash = "175839185c956c4da578664c4135797b4cad0a6506d9ff0544eef37d9959cf2a"
+metafile = true
+
+[[files]]
+file = "mods/silent-lib.pw.toml"
+hash = "46d80aa9ce077e53d42c1c21b8a61e4dc4e2e8b757ad2636c75d740e0e039417"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
 metafile = true
@@ -199,12 +219,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "710ddf874666fd615cbe07bcdc12fa33571d9ede39a07c23a8b29325a5a8671f"
+hash = "05f16c21e7a9fa96efd2823b413ce456be92ec373c116aef31dec2abd0834686"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "33798f94d1d64ea989b7b3c50ccb22a029f7311d8640941b593e7d45e3c9f0f1"
+hash = "594fce42d035e186f64bd8b0447e7bc495a11fbf0766b2264b7a80ab1118e337"
 metafile = true
 
 [[files]]
@@ -214,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "ebced2dc6adbb6a54965498fce855ba5d1ee86ca1d9b797c1088c27559feb311"
+hash = "2c297fb87d09bd4203399e865d48a10aa82016c53b6767b10b43726e111a3566"
 metafile = true
 
 [[files]]
@@ -224,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "078bcdf161d4c7d7a278fc3d65072bf367f4fad882d3a53faf2cd338d1731193"
+hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
@@ -235,6 +255,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "d1f4e89f0bab13ba276c7eda30f893c96a4ea6163357e8fcefe0c3b2b704b142"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
 metafile = true
 
 [[files]]
